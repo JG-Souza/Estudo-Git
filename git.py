@@ -13,3 +13,13 @@ def subtrai(a, b):
     return resultado
 
 print(subtrai(5, 2))
+
+
+def multiplica(a, b):
+    resultado = a * b
+
+    return resultado
+
+print(multiplica(2, 5))
+
+
